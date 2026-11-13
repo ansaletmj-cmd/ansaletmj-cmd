@@ -36,8 +36,6 @@ and machine learning.
 
 ### 🏆 Achievements & Activities
 
-- President, Electronics Association
-- Second Prize, ASME Idea Pitching Competition
 - NPTEL Elite Certification in Programming in Java
 
 ### 📫 Connect With Me

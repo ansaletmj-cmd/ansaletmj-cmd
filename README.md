@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**ansaletmj-cmd/ansaletmj-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Ansalet! 👋
 
-Here are some ideas to get you started:
+### Electronics & Communication Engineering | CSE Minor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an engineering student interested in building practical
+solutions through software, electronics and embedded systems.
+
+### 💻 Technical Skills
+
+- **Programming:** Python, C, Java
+- **Web Development:** Flask, HTML, CSS, JavaScript
+- **Database:** PostgreSQL, SQL
+- **Tools:** MATLAB, Git, GitHub, Arduino IDE
+- **Core Interests:** Embedded Systems, IoT, Robotics
+
+### 🚀 Featured Projects
+
+**1. SYNQ – College Event Management Portal**
+
+A web-based college event management platform built using
+Flask and PostgreSQL.
+
+[Live Demo](https://synq-event-portal.onrender.com) |
+[Source Code](https://github.com/ansaletmj-cmd/synq-event-portal)
+
+**2. Ultrasonic Mapping & Evasive Navigation System**
+
+An Arduino-based project involving ultrasonic sensing,
+obstacle detection and motor control.
+
+**3. Epileptic Seizure Detection System**
+
+Ongoing exploration of biomedical signal processing
+and machine learning.
+
+### 🏆 Achievements & Activities
+
+- President, Electronics Association
+- Second Prize, ASME Idea Pitching Competition
+- NPTEL Elite Certification in Programming in Java
+
+### 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/ansalet-m-j-9b79ba320/)
